@@ -7,4 +7,21 @@
     <Application.Styles>
         <FluentTheme />
     </Application.Styles>
+             
+             
+             <TrayIcon.Icons>
+                 <TrayIcons>
+                     <TrayIcon Icon="avares://HumanizerTrayApp/Assets/icon.png" ToolTipText="Avalonia Tray Icon ToolTip">
+                         <TrayIcon.Menu>
+                             <NativeMenu>
+                                 <NativeMenuItem Header="Do the job" Click="NativeMenuItem_DoTheMagicOnClick"  />
+                                 <!-- NativeMenuItem Header="Settings" Click="NativeMenuItem_SettingsOnClick" /-->
+                                 <NativeMenuItem Header="Exit" Click="NativeMenuItem_ExitOnClick" />
+                             </NativeMenu>
+                         </TrayIcon.Menu>
+                     </TrayIcon>
+                 </TrayIcons>
+             </TrayIcon.Icons>
+             
+             
 </Application>

@@ -1,3 +1,8 @@
-{
-
-}
+[
+  { "pattern": "—", "replacement": "-" },
+  { "pattern": "[“”]", "replacement": "\"" },
+  { "pattern": "[‘’]", "replacement": "'" },
+  { "pattern": "\\s{2,}", "replacement": " " },
+  { "pattern": "в заключение,", "replacement": "" },
+  { "pattern": "Таким образом,", "replacement": "" }
+]

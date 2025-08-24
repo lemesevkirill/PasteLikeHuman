@@ -31,20 +31,11 @@ But in code, Markdown, YAML, CLI, and other structured formats — these break t
 **HumanizerTrayApp** fixes that with one click:  
 copy → click → paste → done.
 
-## ⚙️ How to build
-
-This is a raw .NET 8 Avalonia project. You can build it manually:
-
-```bash
-dotnet publish -c Release -r win10-x64 --self-contained true
-dotnet publish -c Release -r osx-x64 --self-contained true
-```
-
 ## 📎 Screenshot
 
-![screenshot](./Assets/screenshot.png)
+![screenshot](./sample.png)git remote add origin https://github.com/lemesevkirill/PasteLikeHuman.git
 
 ## 📫 Feedback
 
 This is a personal side project.  
-But if you want to contribute rules or report a bug, [open an issue](https://github.com/kirilllemesev/HumanizerTrayApp/issues) or message me on Telegram: `@lemesev`
+But if you want to contribute rules or report a bug, [open an issue](https://github.com/kirilllemesev/HumanizerTrayApp/issues) or drop me a message at 'lemesev.kirill@gmail.com'
