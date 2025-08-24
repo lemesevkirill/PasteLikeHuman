@@ -33,7 +33,7 @@ copy → click → paste → done.
 
 ## 📎 Screenshot
 
-![screenshot](./sample.png)git remote add origin https://github.com/lemesevkirill/PasteLikeHuman.git
+![screenshot](./sample.png)
 
 ## 📫 Feedback
 
