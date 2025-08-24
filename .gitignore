@@ -3,3 +3,19 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+
+# macOS
+.DS_Store
+
+# Rider / JetBrains
+.idea/
+*.sln.iml
+*.user
+*.userprefs
+
+# Avalonia build caches
+bin/
+obj/
+
+# Rider caches
+.idea.*
